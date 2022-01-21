@@ -9,14 +9,24 @@ Lvl 33 /  Engineering in Software Development and Management 🖥️📲 Web Dev
 
 <h1>Languages and Tools: </h1>
 
-<a href="#" rel="nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
-  <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/css.png" alt="html5" width="40" height="40" style="max-width: 100%;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgC6vRmJVYMmS_2IqSVlnUURfI1NYe7u033A&usqp=CAU" alt="html5" width="40" height="40" style="max-width: 100%;">
 
-  
-
-</a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="max-width: 100%;"> 
+  <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/css.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgC6vRmJVYMmS_2IqSVlnUURfI1NYe7u033A&usqp=CAU" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://styde.net/wp-content/uploads/2021/02/php8-ico.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNCX-G-8UZJbDLNkM_RZBmDVXLEj6ZSzLAw&usqp=CAU" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://res.cloudinary.com/escuela-frontend/image/upload/v1629831240/tags/npm_owh460.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://www.rlogical.com/wp-content/uploads/2020/08/icon-botsrap-1.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://images.assetsdelivery.com/compings_v2/iconstar/iconstar2006/iconstar200600421.jpg" alt="html5" width="70" height="70" style="max-width: 100%;">
+    
+  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://henrixivo.files.wordpress.com/2014/07/postgresql-logo.jpg?w=325&h=289" alt="html5" width="70" height="70" style="max-width: 100%;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EA1u7GiIn4O1A981Kn_l7L8VoGEuykFbTQ&usqp=CAU" alt="html5" width="70" height="70" style="max-width: 100%;">
+    
+    
+</p>
 
 
 <h1>(Operating systems) : </h1>
