@@ -21,16 +21,13 @@ Lvl 33 /  Engineering in Software Development and Management 🖥️📲 Web Dev
 
 <h1>(Operating systems) : </h1>
 
-<a href="#" rel="nofollow"> 
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="html5" width="440" height="140" style="max-width: 100%;"> 
-  <img src="http://c-nergy.be/blog/wp-content/uploads/u2004Logo2.png" alt="html5" width="280" height="140" style="max-width: 100%;">
-  <br><img src="https://x-tecno.com/wp-content/uploads/2021/06/1622975784_593_Sepa-cual-seria-el-nuevo-logotipo-de-Windows-11.jpg" alt="html5" width="540" height="140" style="max-width: 100%;">
-   
-  
-
-  
-
-</a>
+    <img src="http://c-nergy.be/blog/wp-content/uploads/u2004Logo2.png" alt="html5" width="280" height="140" style="max-width: 100%;">
+</p>
+<p align="center">
+  <img src="https://x-tecno.com/wp-content/uploads/2021/06/1622975784_593_Sepa-cual-seria-el-nuevo-logotipo-de-Windows-11.jpg" />
+</p>
 
 <h1>Contributions: </h1>
 
