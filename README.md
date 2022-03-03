@@ -34,7 +34,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="html5" width="70" height="70" style="max-width: 100%;">
   <img src="http://lagahe.com/wp-content/uploads/2019/04/Symfony.png" alt="html5" width="80" height="70" style="max-width: 100%;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNCX-G-8UZJbDLNkM_RZBmDVXLEj6ZSzLAw&usqp=CAU" alt="html5" width="70" height="70" style="max-width: 100%;">
-  <img src="https://bardcrack.com/assets/img/courses/5JXZVHqKfO/f118dce1889fc4223306f78541d72a525620efce.png" alt="html5" width="140" height="70" style="max-width: 100%;">
+  <img src="https://es.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" alt="html5" width="140" height="70" style="max-width: 100%;">
 </p>
 
 <h1>Source Code Editor: </h1>
