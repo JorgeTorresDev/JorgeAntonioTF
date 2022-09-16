@@ -1,7 +1,7 @@
 <h1>Social Networks: </h1>
 
-<a href="https://twitter.com/jorgeatf88" rel="nofollow">
-    <img align="center" src="https://espaciocritico20.files.wordpress.com/2013/05/10-cosas-que-debes-controlar-tu-cuenta-twitte-l-olbr8t.png" alt="jorgeatf88" height="48px" width="48px" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width: 100%;"> @JorgeATF88
+<a href="https://twitter.com/jorgetorresdev" rel="nofollow">
+    <img align="center" src="https://espaciocritico20.files.wordpress.com/2013/05/10-cosas-que-debes-controlar-tu-cuenta-twitte-l-olbr8t.png" alt="jorgeatf88" height="48px" width="48px" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" style="max-width: 100%;"> @Jorgetorresdev
   </a> 
   
   <br><p> - 🌱 I’m currently learning ... Angular, Laravel, React </p>
