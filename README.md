@@ -24,7 +24,7 @@
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="html5" width="70" height="70" style="max-width: 100%;">
   <img src="https://henrixivo.files.wordpress.com/2014/07/postgresql-logo.jpg?w=325&h=289" alt="html5" width="70" height="70" style="max-width: 100%;">
   
-  <img src="https://aisn.net/wp-content/uploads/tech-logos-03.png" alt="html5" width="90" height="70" style="max-width: 100%;">
+
   
 </p>
 
