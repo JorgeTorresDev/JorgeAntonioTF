@@ -32,9 +32,8 @@
 <p align="left">
   
   <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="html5" width="70" height="70" style="max-width: 100%;">
-  <img src="[http://lagahe.com/wp-content/uploads/2019/04/Symfony.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.freepng.es%2F20180503%2Fgdw%2Fkisspng-angularjs-data-binding-web-application-angular-5aeada2d95bc97.5966864415253407176133.jpg&f=1&nofb=1&ipt=92941d647506fff5c98e10e5b9c93470dcd4a398893e3a8dfe59fb3cc1fa302d&ipo=images)" alt="html5" width="80" height="70" style="max-width: 100%;">
+ 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaNCX-G-8UZJbDLNkM_RZBmDVXLEj6ZSzLAw&usqp=CAU" alt="html5" width="70" height="70" style="max-width: 100%;">
-  <img src="https://ito-work.com/job_attachments/logo-laravelpng.2961.png" alt="html5" width="140" height="70" style="max-width: 100%;">
 </p>
 
 <h1>Source Code Editor: </h1>
