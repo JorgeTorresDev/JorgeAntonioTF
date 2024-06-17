@@ -18,7 +18,7 @@
   
   <img src="https://res.cloudinary.com/escuela-frontend/image/upload/v1629831240/tags/npm_owh460.png" alt="html5" width="70" height="70" style="max-width: 100%;">
   <img src="https://www.solvetic.com/uploads/monthly_01_2016/tutorials-1415-0-60642300-1452279191.jpg" alt="html5" width="80" height="70" style="max-width: 100%;">
-  <img src="https://www.rlogical.com/wp-content/uploads/2020/08/icon-botsrap-1.png" alt="html5" width="70" height="70" style="max-width: 100%;">
+ 
   <img src="https://images.assetsdelivery.com/compings_v2/iconstar/iconstar2006/iconstar200600421.jpg" alt="html5" width="70" height="70" style="max-width: 100%;">
     
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-how-setup-mysql-workbench-database-for-wordpress-20.png" alt="html5" width="70" height="70" style="max-width: 100%;">
